@@ -15,7 +15,7 @@ A starter template for NestJS with Prisma in TypeScript
 
 ## How to Reuse Locally?
 
-Use `degit` to download the repository locally.
+Use [degit](https://github.com/Rich-Harris/degit) to download the repository locally.
 
 > `degit` downloads a copy of git repository with downloading its entire git history.
 
