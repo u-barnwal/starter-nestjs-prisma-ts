@@ -1,6 +1,16 @@
 # NestJS with Prisma in TypeScript
 A starter template for NestJS with Prisma in TypeScript
 
+### Tech
+- [NestJS](https://nestjs.com/) v8
+- [Prisma](https://www.prisma.io/) v3
+- [TypeScript](https://www.typescriptlang.org/) v4
+
+### Highlights
+- `env` is configured
+- [PrismaService](./src/prisma.service.ts) is created
+- [Jest](https://jestjs.io/) is configured
+
 [<img src="https://ik.imagekit.io/iutsav/fork-on-codesandbox__e0mFWzr1.png?updatedAt=1641916982302" width="200"/>](https://githubbox.com/u-barnwal/starter-nestjs-prisma-ts)
 
 ## How to Reuse Locally?
