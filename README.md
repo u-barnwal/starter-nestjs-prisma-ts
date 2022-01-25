@@ -1,6 +1,8 @@
 # NestJS with Prisma in TypeScript
 A starter template for NestJS with Prisma in TypeScript
 
+[<img src="https://ik.imagekit.io/iutsav/fork-on-codesandbox__e0mFWzr1.png?updatedAt=1641916982302" width="200"/>](https://githubbox.com/u-barnwal/starter-nestjs-prisma-ts)
+
 ### Tech
 - [NestJS](https://nestjs.com/) v8
 - [Prisma](https://www.prisma.io/) v3
@@ -11,14 +13,11 @@ A starter template for NestJS with Prisma in TypeScript
 - [PrismaService](./src/prisma.service.ts) is created
 - [Jest](https://jestjs.io/) is configured
 
-[<img src="https://ik.imagekit.io/iutsav/fork-on-codesandbox__e0mFWzr1.png?updatedAt=1641916982302" width="200"/>](https://githubbox.com/u-barnwal/starter-nestjs-prisma-ts)
-
 ## How to Reuse Locally?
 
 Use `degit` to download the repository locally.
 
-> ### What is [degit](https://github.com/Rich-Harris/degit)?
-> degit downloads a copy of git repository with downloading its entire git history.
+> `degit` downloads a copy of git repository with downloading its entire git history.
 
 Install degit globally.
 
