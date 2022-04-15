@@ -1,7 +1,7 @@
 # NestJS with Prisma in TypeScript
 A starter template for NestJS with Prisma in TypeScript
 
-[<img src="https://ik.imagekit.io/iutsav/fork-on-codesandbox__e0mFWzr1.png?updatedAt=1641916982302" width="200"/>](https://githubbox.com/u-barnwal/starter-nestjs-prisma-ts)
+[<img src="https://ik.imagekit.io/iutsav/fork-on-codesandbox__e0mFWzr1.png?updatedAt=1641916982302" width="200"/>](https://githubbox.com/utsavdotpro/starter-nestjs-prisma-ts)
 
 ### Tech
 - [NestJS](https://nestjs.com/) v8
@@ -27,7 +27,7 @@ npm install -g degit
 
 Download the latest version
 ````bash
-degit u-barnwal/starter-nestjs-prisma-ts
+degit utsavdotpro/starter-nestjs-prisma-ts
 ````
 
 ## Getting Started
