@@ -3,6 +3,11 @@ A starter template for NestJS with Prisma in TypeScript
 
 [<img src="https://ik.imagekit.io/iutsav/fork-on-codesandbox__e0mFWzr1.png?updatedAt=1641916982302" width="200"/>](https://githubbox.com/utsavdotpro/starter-nestjs-prisma-ts)
 
+
+Want a modular Project Structure? Check out the [modular-folder-structure](https://github.com/utsavdotpro/starter-nestjs-prisma-ts/tree/modular-folder-structure) branch!
+
+---
+
 ### Tech
 - [NestJS](https://nestjs.com/) v8
 - [Prisma](https://www.prisma.io/) v3
