@@ -1,5 +1,47 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@decorators/*": [
+        "common/decorators/*"
+      ],
+      "@exceptions/*": [
+        "common/exceptions/*"
+      ],
+      "@guards/*": [
+        "common/guards/*"
+      ],
+      "@interceptors/*": [
+        "common/interceptors/*"
+      ],
+      "@interfaces/*": [
+        "common/interfaces/*"
+      ],
+      "@middlewares/*": [
+        "common/middlewares/*"
+      ],
+      "@config/*": [
+        "config/*"
+      ],
+      "@database/*": [
+        "database/*"
+      ],
+      "@jobs/*": [
+        "jobs/*"
+      ],
+      "@models/*": [
+        "models/*"
+      ],
+      "@providers/*": [
+        "providers/*"
+      ],
+      "@constants/*": [
+        "utils/constants/*"
+      ],
+      "@utils/*": [
+        "utils/*"
+      ],
+    },
     "module": "commonjs",
     "declaration": true,
     "removeComments": true,
@@ -9,7 +51,6 @@
     "target": "es2017",
     "sourceMap": true,
     "outDir": "./dist",
-    "baseUrl": "./",
     "incremental": true,
     "skipLibCheck": true,
     "strictNullChecks": false,
