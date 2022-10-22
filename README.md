@@ -10,7 +10,7 @@ Want a modular Project Structure? Check out the [modular-folder-structure](https
 
 ### Tech
 - [NestJS](https://nestjs.com/) v8
-- [Prisma](https://www.prisma.io/) v3
+- [Prisma](https://www.prisma.io/) v4
 - [TypeScript](https://www.typescriptlang.org/) v4
 
 ### Highlights
