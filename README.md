@@ -1,12 +1,7 @@
+[<img src="https://ik.imagekit.io/iutsav/fork_l0RKONb5l.svg" height="30" />](https://githubbox.com/utsavdotpro/starter-nestjs-prisma-ts)
+
 # NestJS with Prisma in TypeScript
-A starter template for NestJS with Prisma in TypeScript
-
-[<img src="https://ik.imagekit.io/iutsav/fork-on-codesandbox__e0mFWzr1.png?updatedAt=1641916982302" width="200"/>](https://githubbox.com/utsavdotpro/starter-nestjs-prisma-ts/tree/modular-folder-structure)
-
-
-Want a modular Project Structure? Check out the [modular-folder-structure](https://github.com/utsavdotpro/starter-nestjs-prisma-ts/tree/modular-folder-structure) branch!
-
----
+A starter template for NestJS with Prisma in TypeScript with an opinionated modular project structure.
 
 ### Tech
 - [NestJS](https://nestjs.com/) v8
@@ -17,6 +12,8 @@ Want a modular Project Structure? Check out the [modular-folder-structure](https
 - `env` is configured
 - [PrismaService](./src/prisma.service.ts) is created
 - [Jest](https://jestjs.io/) is configured
+
+---
 
 ## How to Reuse Locally?
 
@@ -32,8 +29,10 @@ npm install -g degit
 
 Download the latest version
 ````bash
-degit utsavdotpro/starter-nestjs-prisma-ts#modular-folder-structure
+degit utsavdotpro/starter-nestjs-prisma-ts
 ````
+
+---
 
 ## Getting Started
 Install dependencies
