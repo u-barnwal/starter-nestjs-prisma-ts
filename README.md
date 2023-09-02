@@ -3,10 +3,10 @@
 # NestJS with Prisma in TypeScript
 A starter template for NestJS with Prisma in TypeScript with an opinionated modular project structure.
 
-### Tech
-- [NestJS](https://nestjs.com/) v8
-- [Prisma](https://www.prisma.io/) v4
-- [TypeScript](https://www.typescriptlang.org/) v4
+### Technologies
+[![](https://img.shields.io/badge/NestJS-v10-ea2845?style=for-the-badge&logo=nestjs)](https://nestjs.com/)
+[![](https://img.shields.io/badge/Prisma-v5-38586b?style=for-the-badge&logo=prisma)](https://www.prisma.io/)
+[![](https://img.shields.io/badge/TypeScript-v5-3178c6?style=for-the-badge&logo=typescript)](https://typescriptlang.org)
 
 ### Highlights
 - `env` is configured
